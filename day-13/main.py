@@ -1,4 +1,4 @@
-### PARRT 1 ###
+### PART 1 ###
 
 def hasReflection(pattern, firstPtr, lastPtr):
     while firstPtr < lastPtr:
